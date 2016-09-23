@@ -1,5 +1,4 @@
-# Upload-Image-Example
-Upload-Image-Example
+## Upload-Image-Example
 
 #upload image with 2 option => 1. Camera 2. Gallery
 
